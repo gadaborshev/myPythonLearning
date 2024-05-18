@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c19086b3-f9c5-4666-b801-577aa2206444" name="Changes" comment="updated hello_user.py">
-      <change afterPath="$PROJECT_DIR$/Lessons/hello_user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/avg_cost_of_goods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/body_mass_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/devs_avg_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/distance_between_the_points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/float_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/income_after_taxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/integer_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/kinetic_energy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/two_variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/hello_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/hello_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/hello_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/hello_user_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/hello_world.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +61,21 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.avg_cost_of_goods.executor": "Run",
+    "Python.body_mass_index.executor": "Run",
+    "Python.devs_avg_salary.executor": "Run",
+    "Python.distance_between_the_points.executor": "Run",
+    "Python.float_digits.executor": "Run",
+    "Python.hello_user (1).executor": "Run",
     "Python.hello_user.executor": "Run",
+    "Python.hello_user_input (1).executor": "Run",
     "Python.hello_user_input.executor": "Run",
+    "Python.hello_world (1).executor": "Run",
     "Python.hello_world.executor": "Run",
+    "Python.income_after_taxes.executor": "Run",
+    "Python.integer_division.executor": "Run",
+    "Python.kinetic_energy.executor": "Run",
+    "Python.two_variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -64,8 +86,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hello_user_input">
-    <configuration name="hello_user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="hello_user (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="myPythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,12 +96,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons/01_intro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/hello_user.py" />
-      <option name="PARAMETERS" value="Ruslan Gadaborshev" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/01_intro/hello_user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello_user_input (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myPythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons/01_intro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/01_intro/hello_user_input.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -109,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hello_world (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="myPythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,11 +162,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons/01_intro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/hello_world.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/01_intro/hello_world.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myPythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons/02_NumbersAndStrings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/two_variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,15 +198,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.hello_user (1)" />
       <item itemvalue="Python.hello_user_input" />
-      <item itemvalue="Python.hello_user" />
-      <item itemvalue="Python.hello_world" />
+      <item itemvalue="Python.hello_user_input (1)" />
+      <item itemvalue="Python.hello_world (1)" />
+      <item itemvalue="Python.two_variables" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.two_variables" />
+        <item itemvalue="Python.hello_user (1)" />
+        <item itemvalue="Python.hello_user_input (1)" />
+        <item itemvalue="Python.hello_world (1)" />
         <item itemvalue="Python.hello_user_input" />
-        <item itemvalue="Python.hello_user" />
-        <item itemvalue="Python.hello_world" />
       </list>
     </recent_temporary>
   </component>
