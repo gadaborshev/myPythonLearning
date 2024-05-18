@@ -1,4 +1,4 @@
 # Игнорирование файлов и папок конфигурации IDE
-../.idea/inspectionProfiles/
-../.idea/material_theme_project_new.xml
-../.idea/vcs.xml
+.idea/inspectionProfiles/
+.idea/material_theme_project_new.xml
+.idea/vcs.xml
