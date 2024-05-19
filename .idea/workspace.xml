@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c19086b3-f9c5-4666-b801-577aa2206444" name="Changes" comment="updated hello_user.py">
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/align_right.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/string_repeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/car_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/cut_the_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/file_extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/file_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/format_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/hide_phone_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/strings_slices.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +60,14 @@
     "Python.avg_cost_of_goods.executor": "Run",
     "Python.bank_round.executor": "Run",
     "Python.body_mass_index.executor": "Run",
+    "Python.car_number.executor": "Run",
+    "Python.cut_the_string.executor": "Run",
     "Python.devs_avg_salary.executor": "Run",
     "Python.distance_between_the_points.executor": "Run",
+    "Python.file_extension.executor": "Run",
+    "Python.file_name.executor": "Run",
     "Python.float_digits.executor": "Run",
+    "Python.format_phone.executor": "Run",
     "Python.frame.executor": "Run",
     "Python.hello_user (1).executor": "Run",
     "Python.hello_user.executor": "Run",
@@ -66,12 +75,14 @@
     "Python.hello_user_input.executor": "Run",
     "Python.hello_world (1).executor": "Run",
     "Python.hello_world.executor": "Run",
+    "Python.hide_phone_number.executor": "Run",
     "Python.income_after_taxes.executor": "Run",
     "Python.integer_division.executor": "Run",
     "Python.kinetic_energy.executor": "Run",
     "Python.length.executor": "Run",
     "Python.string_repeat.executor": "Run",
     "Python.strings_concatenation.executor": "Run",
+    "Python.strings_slices.executor": "Run",
     "Python.two_variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
