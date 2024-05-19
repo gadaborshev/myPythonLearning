@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c19086b3-f9c5-4666-b801-577aa2206444" name="Changes" comment="updated hello_user.py">
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/bank_round.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/full_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/name_lastname.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/strings_concatenation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/align_right.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/string_repeat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,12 +52,14 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.align_right.executor": "Run",
     "Python.avg_cost_of_goods.executor": "Run",
     "Python.bank_round.executor": "Run",
     "Python.body_mass_index.executor": "Run",
     "Python.devs_avg_salary.executor": "Run",
     "Python.distance_between_the_points.executor": "Run",
     "Python.float_digits.executor": "Run",
+    "Python.frame.executor": "Run",
     "Python.hello_user (1).executor": "Run",
     "Python.hello_user.executor": "Run",
     "Python.hello_user_input (1).executor": "Run",
@@ -71,6 +70,7 @@
     "Python.integer_division.executor": "Run",
     "Python.kinetic_energy.executor": "Run",
     "Python.length.executor": "Run",
+    "Python.string_repeat.executor": "Run",
     "Python.strings_concatenation.executor": "Run",
     "Python.two_variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
