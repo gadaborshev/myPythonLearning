@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c19086b3-f9c5-4666-b801-577aa2206444" name="Changes" comment="used input function first time">
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/odd_and_even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/reverse_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/slices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/string_changing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/change_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/credentials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/strings_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/upper_and_lower.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,8 @@
     "Python.bank_round.executor": "Run",
     "Python.body_mass_index.executor": "Run",
     "Python.car_number.executor": "Run",
+    "Python.change_operator.executor": "Run",
+    "Python.credentials.executor": "Run",
     "Python.cut_the_string.executor": "Run",
     "Python.devs_avg_salary.executor": "Run",
     "Python.distance.executor": "Run",
@@ -85,8 +86,10 @@
     "Python.string_changing.executor": "Run",
     "Python.string_repeat.executor": "Run",
     "Python.strings_concatenation.executor": "Run",
+    "Python.strings_methods.executor": "Run",
     "Python.strings_slices.executor": "Run",
     "Python.two_variables.executor": "Run",
+    "Python.upper_and_lower.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.pluginManager"
