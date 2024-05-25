@@ -12,4 +12,4 @@ number = number.\
     replace("7", "o").\
     replace("8", "lee").\
     replace("9", "f")
-print(number + '.')
+print(number)
