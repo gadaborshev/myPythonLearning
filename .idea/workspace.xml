@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c19086b3-f9c5-4666-b801-577aa2206444" name="Changes" comment="used input function first time">
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/change_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/credentials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/strings_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/upper_and_lower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/myPythonLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/align_right_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/decrypt_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/encrypt_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/english_contruction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/english_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/fill_by_zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/main_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/number_of_repeats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/swapcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/table_of_contents.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,18 +62,22 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.align_right.executor": "Run",
+    "Python.align_right_2.executor": "Run",
     "Python.avg_cost_of_goods.executor": "Run",
     "Python.bank_round.executor": "Run",
     "Python.body_mass_index.executor": "Run",
     "Python.car_number.executor": "Run",
     "Python.change_operator.executor": "Run",
+    "Python.count.executor": "Run",
     "Python.credentials.executor": "Run",
     "Python.cut_the_string.executor": "Run",
     "Python.devs_avg_salary.executor": "Run",
     "Python.distance.executor": "Run",
     "Python.distance_between_the_points.executor": "Run",
+    "Python.english_title.executor": "Run",
     "Python.file_extension.executor": "Run",
     "Python.file_name.executor": "Run",
+    "Python.fill_by_zeroes.executor": "Run",
     "Python.float_digits.executor": "Run",
     "Python.format_phone.executor": "Run",
     "Python.frame.executor": "Run",
@@ -80,6 +92,8 @@
     "Python.integer_division.executor": "Run",
     "Python.kinetic_energy.executor": "Run",
     "Python.length.executor": "Run",
+    "Python.main_title.executor": "Run",
+    "Python.number_of_repeats.executor": "Run",
     "Python.odd_and_even.executor": "Run",
     "Python.reverse_order.executor": "Run",
     "Python.slices.executor": "Run",
@@ -88,15 +102,20 @@
     "Python.strings_concatenation.executor": "Run",
     "Python.strings_methods.executor": "Run",
     "Python.strings_slices.executor": "Run",
+    "Python.swapcase.executor": "Run",
+    "Python.table_of_contents.executor": "Run",
     "Python.two_variables.executor": "Run",
     "Python.upper_and_lower.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ruslangadaborsh/projects/Python/myPythonLearning",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lessons/02_NumbersAndStrings" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
