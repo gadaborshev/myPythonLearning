@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c19086b3-f9c5-4666-b801-577aa2206444" name="Changes" comment="used input function first time">
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/minor_changes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/minor_changes_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/wysiwyg_editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/strings_methods_find.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +92,7 @@
     "Python.string_repeat.executor": "Run",
     "Python.strings_concatenation.executor": "Run",
     "Python.strings_methods.executor": "Run",
+    "Python.strings_methods_find.executor": "Run",
     "Python.strings_slices.executor": "Run",
     "Python.swapcase.executor": "Run",
     "Python.table_of_contents.executor": "Run",
