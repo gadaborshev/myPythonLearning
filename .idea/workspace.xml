@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c19086b3-f9c5-4666-b801-577aa2206444" name="Changes" comment="used input function first time">
-      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/strings_methods_find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/h1_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/02_NumbersAndStrings/only_roubles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +71,7 @@
     "Python.float_digits.executor": "Run",
     "Python.format_phone.executor": "Run",
     "Python.frame.executor": "Run",
+    "Python.h1_title.executor": "Run",
     "Python.hello_user (1).executor": "Run",
     "Python.hello_user.executor": "Run",
     "Python.hello_user_input (1).executor": "Run",
@@ -86,6 +88,7 @@
     "Python.minor_changes_2.executor": "Run",
     "Python.number_of_repeats.executor": "Run",
     "Python.odd_and_even.executor": "Run",
+    "Python.only_roubles.executor": "Run",
     "Python.reverse_order.executor": "Run",
     "Python.slices.executor": "Run",
     "Python.string_changing.executor": "Run",
